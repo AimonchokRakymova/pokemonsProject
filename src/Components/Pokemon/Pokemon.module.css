@@ -1,0 +1,14 @@
+.pokemonCard {
+    border: 2px solid #d8dfaf;
+    border-radius: 8px;
+    width: 200px;
+    margin: 8px;
+    padding: 8px;
+    text-align: center;
+    font-size: 20px;
+    background-color: azure;
+}
+
+.pokemonCard img {
+    width: 200px;
+}

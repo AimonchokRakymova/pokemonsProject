@@ -1,0 +1,9 @@
+.pokemonCards {
+    display: flex;
+    gap: 20px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    font-family: SansSerif;
+    color: #1e1e1e;
+}
+
